@@ -1,4 +1,4 @@
-# learner_dictionary
+# Learner Dictionary
 
 Transcript of how we created this:
 
